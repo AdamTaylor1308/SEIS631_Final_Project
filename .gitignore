@@ -4,6 +4,7 @@
 *.csv
 *.zip
 *.txt
+*.tsv
 testing-code.ipynb
 
 # Byte-compiled / optimized / DLL files
